@@ -25,3 +25,11 @@
 [kpence](https://github.com/kpence)
 
 [ryanboris](https://github.com/ryanboris)
+
+[tomneo2004](https://github.com/tomneo2004)
+
+[JimBratsos](https://github.com/JimBratsos)
+
+[Rahul](https://github.com/kohli6010)
+
+[Antonio Franceschi](https://github.com/francofle)
